@@ -30,11 +30,11 @@ h2 {
 
 aside {
     position: relative;
-    margin-right: 0px;;
+    margin-right: 22px;
     padding: 0px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 30%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -42,9 +42,10 @@ aside {
     color: #ffffff;
 }
 
-#golf {
-    height: 100px;
-    width: 150px;
+img {
+    height: 183px;
+    width: 275px;
+    ;
 }
 
 
