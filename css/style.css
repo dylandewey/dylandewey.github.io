@@ -8,8 +8,12 @@ h1 {
     font-size: 30px;
     text-align: center;
     padding: 30px;
+}
 
-    
+h2 {
+    background-color: blue;
+    color:  orange;
+    font-size: 20px; 
 }
 
 img {
