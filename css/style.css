@@ -29,7 +29,6 @@ h2 {
 }
 
 aside {
-    position: relative;
     margin-right: 22px;
     padding: 0px;
     clear: both;
@@ -40,6 +39,7 @@ aside {
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
+    
 }
 
 img {
