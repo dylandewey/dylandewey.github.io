@@ -54,9 +54,10 @@ img {
     align-items: center;
 }
 
-ul a {
+ul {
     list-style-type: disc;
-    padding: 0;
+    padding-left: 10%;
+    padding-right: 10%;
     margin-top: 0;
     font-size: 25px;
     color: white;
