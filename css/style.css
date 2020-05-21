@@ -61,8 +61,10 @@ ul {
     margin-top: 0;
     font-size: 25px;
     color: white;
-    
-    
+}
+
+a {
+    color: white;
 }
 
 .portfolio {
